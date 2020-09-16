@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**nathaliaspinula/nathaliaspinula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+	<h1>
+		Welcome! 👋🏻
+		<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1600297390000.png" alt="Octa"  style="width: 120px; border-radius: 50%; margin-top: 20px;">
+	</h1>
+	<h3>
+		💬 About Me
+	</h3>
+		Hi! I'm Nat -- a ** software engineer** at [**Avanade**](https://avanade.com/). I've been working with development since 2017. 
+	<h3>
+		📌 Would you like to find me?
+	</h3>
+	[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliaspinula)
+	
+	<h3>
+		⚠ This area is under development ⚠
+	</h3>
+</div>
